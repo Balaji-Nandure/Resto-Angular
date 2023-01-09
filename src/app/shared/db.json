@@ -1,0 +1,34 @@
+{
+  "Restaurants": [
+    {
+      "id": "1",
+      "name": "Balaji Idli Center",
+      "address": "Noida Sector 50",
+      "email": "balajiidli@test.com"
+    },
+    {
+      "id": "2",
+      "name": "Akash Chinese",
+      "address": "Ganj golai Latur",
+      "email": "akashchinese@test.com"
+    },
+    {
+      "id": "3",
+      "name": "Rushikesh Sweets",
+      "address": "5 no. chowk Latur",
+      "email": "rushyasweets@test.com"
+    },
+    {
+      "id": "4",
+      "name": "Pratik Panipuri",
+      "address": "Khore galli pune",
+      "email": "pratikpani@test.com"
+    },
+    {
+      "name": "Anuj Pan Shop",
+      "email": "anujpan@test.com",
+      "address": "shivaji chowk latur",
+      "id": "k07gT3g"
+    }
+  ]
+}
